@@ -1,5 +1,5 @@
 :root {
-    --bg_color: #efefef;
+    --bg_color: #AED6F1;
     --light_text: #a39d9e;
     --dark_text: #363b41;
     --active_color_dark: #e1da07;
@@ -12,7 +12,7 @@ h1 {
    padding:1em;
    background-color:var(--bg_color);
    color:var(--active_color_dark);
-   text-shadow: 3px 3px 3px blue;
+   text-shadow: 3px 3px 3px #F7DC6F;
 }
 .poem {
     max-width:30em;
