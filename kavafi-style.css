@@ -12,7 +12,7 @@ h1 {
    padding:1em;
    background-color:var(--bg_color);
    color:var(--active_color_dark);
-   text-shadow: 3px 3px 3px #F7DC6F;
+   text-shadow: 3px 3px 3px #D7BDE2;
 }
 .poem {
     max-width:30em;
